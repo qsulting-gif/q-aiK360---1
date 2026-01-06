@@ -1,0 +1,7 @@
+{
+  "name": "AEGE: Apprenticeship Employer Growth Engine_JasonDev",
+  "description": "A specialized assistant for community colleges and workforce partners to scale employer engagement for apprenticeship programs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
